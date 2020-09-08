@@ -1,0 +1,2 @@
+# token
+MAFI token
